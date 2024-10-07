@@ -1,0 +1,2 @@
+Este é um documento para guardar informações
+referentes ao Python
